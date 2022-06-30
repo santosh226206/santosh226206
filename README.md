@@ -1,4 +1,4 @@
-[![MasterHead](https://static.wixstatic.com/media/547207_ee58c08d3e664910b7bd062c76b23f38~mv2.gif)](https://santosh226206.io)
+[![MasterHead](https://c.tenor.com/E_ciJepnmPIAAAAC/di-discord.gif)](https://santosh226206.io)
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
 - 🔭 I’m currently working on **chat-app**
