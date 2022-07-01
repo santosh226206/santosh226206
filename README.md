@@ -1,4 +1,3 @@
-[![MasterHead](https://c.tenor.com/E_ciJepnmPIAAAAC/di-discord.gif)](https://santosh226206.io)
 <h3 align="center">A passionate android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
 - 🔭 I’m currently working on **chat-app**
