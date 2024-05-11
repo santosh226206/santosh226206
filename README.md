@@ -1,4 +1,4 @@
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
 - 🔭 I’m currently working on **chat-app**
 
