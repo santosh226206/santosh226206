@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
 - 🔭 I’m currently working on **chat-app**
 
-- 💬 Ask me about **android,python**
+- 💬 Ask me about **Spring-Boot, Angular**
 
 - 📫 How to reach me **santoshamcl1996@gmail.com**
 
